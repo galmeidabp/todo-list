@@ -1,0 +1,10 @@
+@import '../../../global.css';
+
+.header {
+   background: var(--gray-700);
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   flex: 1;
+   padding: 5rem 0.625rem;
+}
